@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# QuantumCloud - Quantum Computing Platform
+# QuantumDashboard - Quantum Computing Platform
 
 <div align="center">
 
@@ -208,6 +207,4 @@ For questions or feedback about the research, please refer to the contact inform
 ⭐ Star this repo if you find it useful!
 
 </div>
-=======
-# QuantumDashboard
->>>>>>> 90cdb64a5bc3bc85ab0b28f2129fd409d86186b4
+
